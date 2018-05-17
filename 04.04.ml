@@ -1,0 +1,1 @@
+let bmi height_m weight_kg = weight_kg /. height_m ** 2.

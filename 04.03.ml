@@ -1,0 +1,1 @@
+let hyojun_taiju hight_m = hight_m ** 2. *. 22.

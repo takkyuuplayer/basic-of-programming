@@ -1,0 +1,1 @@
+let jikoshoukai name = "My name is " ^ name
