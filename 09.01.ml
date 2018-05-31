@@ -1,0 +1,1 @@
+let season = "Spring" :: "Summer" :: "Autum" :: "Winter" :: []
